@@ -1,0 +1,7 @@
+{
+  "name": "plataforma-cursos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
